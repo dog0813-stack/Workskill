@@ -1,0 +1,13 @@
+{
+  "profile_version": 1,
+  "employee_id": "employee-demo",
+  "organization": "",
+  "department": "",
+  "identity_hint": "",
+  "oa_url": "",
+  "mailbox_url": "",
+  "execution_environment": "windows-cloud-desktop",
+  "private_data_root": "",
+  "company_rules_file": "",
+  "field_map_file": ""
+}
